@@ -1,0 +1,1 @@
+docker swarm join --token "TOKEN_SERA_GERADO_NO_INIT_DO_MASTER" 10.10.10.100:2377
